@@ -9,7 +9,7 @@ const MainContent = () => {
     >
       <h2 style={{ textAlign: "center", color: "#333" }}>Welcome to My Page</h2>
       <p style={{ margin: "20px", fontSize: "18px" }}>
-        Here are some cool facts about my favorite cities!
+        I love to visit New York, Paris, and Tokyo.
       </p>
     </main>
   );
